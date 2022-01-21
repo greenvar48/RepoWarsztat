@@ -10,7 +10,7 @@ Trzeci paragraf
 **EYY MAKARENA**  
 *AYY LMAO*  
 ~~essa wariacie~~  
-"Smutna żaba"  
+"Smutna żaba"
 1. Jajka
 2. Bardzo
 3. Wysmażone
@@ -18,3 +18,4 @@ Trzeci paragraf
 - inflacja
 - i jest
 - bieda :(
+  print("eeee makarena")
