@@ -9,7 +9,7 @@ Trzeci paragraf
 
 **EYY MAKARENA**  
 *AYY LMAO*  
-~~essa wariacie~~  
+<s>essa wariacie</s>  
 "Smutna żaba"
 1. Jajka
 2. Bardzo
@@ -17,5 +17,10 @@ Trzeci paragraf
 - jest
 - inflacja
 - i jest
-- bieda :(
-  print("eeee makarena")
+- bieda :(  
+```python
+a = 12
+b = 52
+print(f'Suma a i b: {a+b}')
+```  
+Aby wypisać coś na ekran użyj funkcji `print()`  
