@@ -24,3 +24,5 @@ b = 52
 print(f'Suma a i b: {a+b}')
 ```  
 Aby wypisać coś na ekran użyj funkcji `print()`  
+
+~[piesełek](https://github.com/greenvar48/RepoWarsztat/blob/master/border-collie-g3b8259472_1920.jpg?raw=true "piesełek")
