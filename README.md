@@ -11,6 +11,7 @@ Trzeci paragraf
 *AYY LMAO*  
 <s>essa wariacie</s>  
 "Smutna żaba"
+> Smutne żaby
 1. Jajka
 2. Bardzo
 3. Wysmażone
